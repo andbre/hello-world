@@ -1,3 +1,4 @@
+Riga -1
 Riga 0
 Riga 1
 Riga 2
